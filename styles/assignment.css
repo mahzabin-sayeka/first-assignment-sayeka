@@ -110,3 +110,69 @@ nav{
     height: 52px;
     width: 251px;
 }
+section{
+    
+    width: 1600px;
+height: 448px;
+}
+.low-color{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin-left: 120px;
+    width: 1360px;
+    height: 152px;
+    
+}
+.low-color h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    padding-top: 60px;
+    
+}
+.low-color p{
+    color: #627382;
+    font-style: normal;
+    font-size: 16px;
+    margin-top: 16px;
+
+}
+.option-flex{
+    display: flex;
+    gap: 24px;
+    margin-top: 44px;
+    height: 250px;
+}
+    
+.logo-wrap{
+    
+    position: relative;
+    display: inline-block;
+    background-color: rgba(249, 85, 85, 1) ;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+}
+.logo-wrap img{
+    position: relative;
+    top: 25%;
+    width: 27px;
+    height: 29px;
+}
+.option-box{
+    padding: 30px;
+    width: 322px;
+    background-color: white;
+    box-shadow: 0 6px 50px 0 rgb(187, 219, 245);
+}
+.option-box h3{
+    font-size: 24px;
+    font-weight: 600;
+}
+.option-box p{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+}
