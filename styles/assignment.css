@@ -226,5 +226,37 @@ section{
     vertical-align: middle;
 }
 #chall {
+    max-width: 1360px;
+    margin: auto;
+    background-color:  #F7F6F2;
+    text-align: center;
     
+}
+.cling h1 {
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 80px;
+}
+.cling p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #627382;
+    padding-top: 16px;
+    padding-bottom: 24px;
+}
+footer{
+    margin-top: 120px;
+    background-color: #001931;
+}
+.footer-flex{
+    display: flex;
+    max-width: 1360px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    
+}
+.social{
+    color: white;
 }
